@@ -210,6 +210,7 @@ body {
     top: 50%;
     transform: translate(-15%, -50%);
     left: 0;
+    overflow: initial;
   }
 
   .accordion {
