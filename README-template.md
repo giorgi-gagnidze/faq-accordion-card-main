@@ -5,6 +5,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshoot](#screenshoot)
   - [The challenge](#the-challenge)
   - [Links](#links)
 - [My process](#my-process)
@@ -17,6 +18,10 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ## Overview
 
 My new challenge with HTML, CSS, Bootstrap 5.2 Accordion. It's not very good solution, but at this time, it's enough I think. I worked as usual with HTML and CSS, but this time I added Accordeon with Bootstrap 5.2, it's first time I worked with Bootstrap, I think it's normal. Here is one problem, what I checked, accordions arrow showing just in Firefox, not in Google Chrome, I don't know solution at this time but I will check it for future, maybe found something. I used Bootstrap, because t this time I'm too weak in JS, will rewrite in the future, when I will ready for JS.
+
+### Screenshoot
+
+![Screenshot from real page](./design/Capture.JPG)
 
 ### The challenge
 
