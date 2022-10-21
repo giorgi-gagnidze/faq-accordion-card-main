@@ -120,13 +120,13 @@ body {
 }
 
 .accordion-button.collapsed::after {
-  background-image: url(../Images/icon-arrow-down.svg);
+  background-image: url(../images/icon-arrow-down.svg);
   background-size: 100%;
   width: 12px;
 }
 
 .accordion-button:not(.collapsed)::after {
-  background-image: url(../Images/icon-arrow-down.svg);
+  background-image: url(../images/icon-arrow-down.svg);
   background-size: 100%;
   width: 12px;
 }
